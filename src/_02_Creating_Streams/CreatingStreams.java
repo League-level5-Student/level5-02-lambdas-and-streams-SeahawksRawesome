@@ -13,7 +13,6 @@ public class CreatingStreams {
 		String[] strArr = {"one", "two", "three", "four"};
 		
 		Stream<String> str = Arrays.stream(strArr);
-		
 		ArrayList<Integer> intList = new ArrayList<Integer>();
 		intList.add(1);
 		intList.add(2);
